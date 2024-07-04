@@ -1,0 +1,35 @@
+ /* style.css */
+
+ .bigcontainer {
+    height: 400px;
+    padding-right: 10%;
+    padding-top: 0%;
+ }
+ 
+ .navigation-key {
+     display: flex;
+     justify-content: space-between;
+ }
+ .menu-list-left-size {
+    display: flex;
+ }
+ .zozy-section{
+ background-image: url(/images/bird2.webp);
+ background-size: cover;
+ height: 90dvh;
+ width: 90dvw;
+ background-repeat: no-repeat;
+ }
+
+ .navigation-key ul {
+ display: flex;
+ justify-content: space-between; 
+ }
+ .navigation-key ul li {
+  list-style-type: none;
+ width: 70px;
+ }
+ .menu-list-left-size ul {
+ display: flex;
+ justify-content: space-between;
+ }
